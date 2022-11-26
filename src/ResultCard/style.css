@@ -1,0 +1,12 @@
+.card-wrapper {
+  width: 200px;
+}
+
+.card-image {
+  width: 100%;
+}
+
+.bottom-container {
+  background-color: darkgrey;
+  padding: 4px;
+}
